@@ -8,7 +8,7 @@ What is this program? How did it get made?
 This is a program that I created for a company as a part of my internship.
 Ths program is a mobile Android application that I built completely from scratch.
 I had no prior knowledge of how to create one before this program. 
-I spend roughly 3-4 months to develop this program and had to rely alot on the Android Studio documentation to help me understand how an Android application works.
+I spend roughly 3-4 months to develop this program and had to rely a lot on the Android Studio documentation to help me understand how an Android application works.
 I also looked up step-by-step tutorials on Youtube since those tend to be the most helpful to me.
 This program also was my first program to implement REST API's since I didn't have any previous knowledge of API's at all.
 However, I did have familiarity with the Java language at the time so that made the process go by a little quicker.
